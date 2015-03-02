@@ -514,6 +514,6 @@ open index.html
 
 ![Real-Time Dashboard](https://raw.githubusercontent.com/markoshust/firebase-keen/master/images/dashboard.gif)
 
-A real-time streaming dashboard using Firebase as a proxy cache for Keen.io. When new data comes in, it'll stream right to your dashboard without the need for refreshing or calling Keen.io directly. This makes creating real white-label real-time dashboards with advanced analytics possibility, without managing a backend, and your end users won't even know you use Keen.io even if they check the source code.
+A real-time streaming dashboard using Firebase as a proxy cache for Keen.io. When new data comes in, it'll stream right to your dashboard without the need for refreshing the page or directly calling Keen.io. This makes creating white-label real-time dashboards with advanced analytics a possibility, without having to manage any backend service.
 
 All of the code in this tutorial is available on github at https://github.com/markoshust/firebase-keen
