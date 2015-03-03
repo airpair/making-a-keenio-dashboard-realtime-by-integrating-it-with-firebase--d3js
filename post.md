@@ -36,7 +36,7 @@ npm install firebase keen.io
 We'll also download the firebase-work-queue-advanced code from github to our folder:
 
 ```
-curl -O https://raw.githubusercontent.com/markoshust/firebase-work-queue-advanced/master/workqueue.js
+curl -O https://raw.githubusercontent.com/markoshust/firebase-work-queue-advanced/master/workqueue-advanced.js
 ```
 
 Let's first create some event records. Since we don't have any events right now, and we're a bit short on time to create a ton of them, let's use a worker to create a lot of events in Keen.io. I created this script to generate somewhat random data, so we don't get a ton of records with the same information.
