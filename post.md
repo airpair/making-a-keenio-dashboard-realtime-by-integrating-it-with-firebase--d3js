@@ -219,7 +219,7 @@ I knew I wanted to use D3.js for charts, however there is some learning overhead
 
 First we'll have to create an index.html to house our HTML:
 
-```html
+```markup
 <html>
 
 <head>
